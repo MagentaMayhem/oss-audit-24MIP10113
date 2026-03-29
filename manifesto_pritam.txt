@@ -1,0 +1,18 @@
+-----------------------------------------
+ My Open Source Manifesto
+ Generated on: 29 March 2026
+ Author: pritam
+-----------------------------------------
+
+I believe in the spirit of open-source software. Tools like Zen Browser
+show how powerful collaboration can be when knowledge is shared freely.
+
+To me, freedom means "Accessibility" — the ability to create, modify, and
+distribute software without restrictions.
+
+One day, I want to build and freely share "An extension conversion tool to convert Chrome-based addons to Mozilla-based addons" with the world,
+contributing to the same ecosystem that empowered me.
+
+-----------------------------------------
+ End of Manifesto
+-----------------------------------------
