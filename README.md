@@ -82,6 +82,10 @@ It also:
 An interactive script that asks three open-source–related questions and generates a personalized manifesto, saved as:
 Dependencies
 
+
+---
+
+
 ## Dependencies
 
 These scripts rely on standard GNU/Linux utilities available on most distributions.
