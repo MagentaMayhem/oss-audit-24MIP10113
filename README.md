@@ -11,9 +11,7 @@
 
 ## Project Overview
 
-This repository contains five Bash shell scripts created as part of the OSS Capstone Project.  
-The scripts demonstrate key Linux concepts such as system inspection, package verification, directory auditing, log analysis, and user-interactive automation.  
-The chosen open-source software for this project is **MySQL**, licensed under **GPL v2**.
+This project consists of five Bash shell scripts designed to demonstrate practical skills in Linux system administration, automation, and open-source software analysis. The chosen software for deeper exploration is **MariaDB** — a fully open-source relational database management system that originated as a community-driven fork of **MySQL**, licensed under **GPL v2**. MariaDB maintains full compatibility with MySQL while offering improved performance, transparency, and open governance under the MariaDB Foundation.
 
 ---
 
